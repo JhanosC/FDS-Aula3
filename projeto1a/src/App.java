@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class App{
     public static void main (String[] args) throws Exception{
         //Comentário adicionado na branch Main
+        //Bug resolvido
     
         Scanner s = new Scanner(System.in);
         System.out.println("Nome do professor:");
