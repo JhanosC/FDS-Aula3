@@ -4,6 +4,7 @@ public class App{
     public static void main (String[] args) throws Exception{
         //Comentário adicionado na branch Main
         //Comantário adicionado na branch Alteracao
+        //bug resolvido
     
         Scanner s = new Scanner(System.in);
         System.out.println("Nome do professor:");
