@@ -12,7 +12,7 @@ public class App{
         Professor p = new Professor(nome, experiencia);
 
         System.out.println(p);
-        System.out.println("Categoria "+p.classifica());
+        System.out.println("Categorizado como "+p.classifica());
         s.close();
     }
 }
